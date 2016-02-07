@@ -19,6 +19,7 @@ import com.loopj.android.http.AsyncHttpResponseHandler;
 
 import cz.msebera.android.httpclient.Header;
 
+//http://inthecheesefactory.com/blog/things-you-need-to-know-about-android-m-permission-developer-edition/en
 public class MainActivity extends AppCompatActivity {
 
     private static final String MY_PREFS_NAME = "test";
